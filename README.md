@@ -32,5 +32,5 @@ Neste projeto, verificamos se você é capaz de:
 - Entre na pasta do repositório que você acabou de clonar:
  - `cd project-talker-manager`
 
-2. Instale as dependências [Caso existam]
+2. Instale as dependências
 - `npm install`
