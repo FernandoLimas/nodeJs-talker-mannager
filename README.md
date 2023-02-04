@@ -29,8 +29,7 @@ Neste projeto, verificamos se você é capaz de:
 1. Clone o repositório
 - `git clone git@github.com:analuisams99/project-talker-manager.git`.
 
- - Entre na pasta do repositório que você acabou de clonar:
- - 
+- Entre na pasta do repositório que você acabou de clonar:
  - `cd project-talker-manager`
 
 2. Instale as dependências [Caso existam]
